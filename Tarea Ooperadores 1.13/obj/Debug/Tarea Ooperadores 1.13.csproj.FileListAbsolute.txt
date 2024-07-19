@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\bin\Debug\Tarea Ooperadores 1.13.exe.config
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\bin\Debug\Tarea Ooperadores 1.13.exe
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\bin\Debug\Tarea Ooperadores 1.13.pdb
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\obj\Debug\Tarea Ooperadores 1.13.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\obj\Debug\Tarea Ooperadores 1.13.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\obj\Debug\Tarea Ooperadores 1.13.exe
+C:\Users\USUARIO\source\repos\Tarea Ooperadores 1.13\obj\Debug\Tarea Ooperadores 1.13.pdb

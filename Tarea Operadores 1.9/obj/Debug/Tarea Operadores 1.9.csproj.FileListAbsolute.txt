@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\bin\Debug\Tarea Operadores 1.9.exe.config
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\bin\Debug\Tarea Operadores 1.9.exe
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\bin\Debug\Tarea Operadores 1.9.pdb
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\obj\Debug\Tarea Operadores 1.9.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\obj\Debug\Tarea Operadores 1.9.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\obj\Debug\Tarea Operadores 1.9.exe
+C:\Users\USUARIO\source\repos\Tarea Operadores 1.9\obj\Debug\Tarea Operadores 1.9.pdb
